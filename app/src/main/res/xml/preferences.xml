@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <CheckBoxPreference
+        android:key="@string/pref_high_quality_key"
+        android:summary="@string/pref_high_quality_desc"
+        android:title="@string/pref_high_quality_title"
+        app:icon="@drawable/ic_high_q" />
+
+    <Preference
+        android:icon="@drawable/ic_about"
+        android:key="@string/pref_about_key"
+        android:summary="@string/pref_about_desc"
+        app:title="@string/pref_about_title" />
+
+</PreferenceScreen>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="versionNumber">Version %s</string>
+    <string name="copyRightMessage">Të drejtat e autorit © %1$d nga Lazam Elezi</string>
+    <string name="tap_the_button_to_start_recording">Shtyp butonin për të filluar regjistrimin</string>
+    <string name="no_records_are_saved">Nuk egzistone asnje incizim</string>
+    <string name="tab_title_saved_recordings">Regjistrimet e ruajtura</string>
+    <string name="record_in_progress">Regjistrimi</string>
+    <string name="tab_title_record">Incizo</string>
+    <string name="pause">Ndalo</string>
+    <string name="stop">Ndal</string>
+    <string name="please_wait">Te lutem Prit</string>
+    <string name="deleting_all">Deri sa jemi duke i fshire te gjitha rekordet</string>
+    <string name="notification_recording">Regjistrimi…</string>
+    <string name="toast_file_exists">Ky skedar %1$s ekziston tashme. Ju lutem zgjidhni nje emer tjeter skedari.</string>
+    <string name="yes">Po</string>
+    <string name="no">Jo</string>
+    <string name="ok">Ne rregull</string>
+    <string name="options">Opsione</string>
+    <string name="cancel">Anulo</string>
+    <string name="send_to">Dergoni te</string>
+    <string name="share_file">Ndaj skedarin</string>
+    <string name="rename_file">Riemertoni Skedarin</string>
+    <string name="delete_file">Fshi skedarin</string>
+    <string name="confirm_delete">Konfirmo Fshirjen</string>
+    <string name="delete_message">Je i sigurt qe deshiron ta fshish kete skedar?</string>
+    <string name="settings">Cilesimet</string>
+    <string name="select">Zgjidhni &amp; Fshij</string>
+    <string name="delete_all">Fshij te gjitha</string>
+    <string name="delete">Fshij</string>
+    <string name="selected">U zgjodh %1$d</string>
+    <string name="email_dev">Posta elektronike e zhvilluesit</string>
+    <string name="not_installed">Aplikacioni i kerkuar nuk eshte i gjetur.</string>
+    <string name="latest_version">Ju keni instaluar versionin me te fundit.</string>
+    <string name="pref_high_quality_desc">Regjistro ne Cilesine e CD-se</string>
+    <string name="pref_high_quality_title">Aktivizo Regjistrimin e HQ</string>
+    <string name="pref_about_title">Rreth</string>
+    <string name="toast_recording_finish">Regjistrimi u ruajt në</string>
+    <string name="denied_permission">Ju e refuzuat lejen</string>
+</resources>
